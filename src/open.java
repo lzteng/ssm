@@ -6,6 +6,6 @@
  */
 public class open {
     public static void main(String[] args) {
-        System.out.println("操你妈的美国 谷歌");
+        System.out.println("操你妈的美国");
     }
 }
